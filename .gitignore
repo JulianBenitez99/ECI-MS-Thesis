@@ -161,3 +161,7 @@ cython_debug/
 
 
 vendor/
+
+tree-sitter-*/
+dataset/
+saved_models/
