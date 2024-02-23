@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "unixcoder"
+version = "0.1.0"
+description = ""
+authors = ["JulianBenitez <julian.benitezg99@gmail.com>"]
+license = "MIT"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+torch = "^2.2.1"
+numpy = "^1.26.4"
+transformers = "^4.38.1"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
