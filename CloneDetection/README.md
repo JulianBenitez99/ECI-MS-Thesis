@@ -1,7 +1,7 @@
 # Clone Detection
 
 > [!NOTE]
-> Following the instructions from the [CodeBERT](https://github.com/microsoft/CodeBERT/tree/master/UniXcoder#2-similarity-between-code-and-nl) repository
+> Following the instructions are from the [CodeBERT](https://github.com/microsoft/CodeBERT/tree/master/UniXcoder#2-similarity-between-code-and-nl) repository
 
 ### Recommendation
 Using UniXCode without fine-tuning: https://github.com/microsoft/CodeBERT/issues/196
